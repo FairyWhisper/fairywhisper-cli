@@ -13,5 +13,8 @@
   "dependencies": {
     "commander": "^15.0.0",
     "fs-extra": "^11.4.0"
+  },
+  "bin": {
+    "fairywhisper": "./bin/fairywhisper.js"
   }
 }
